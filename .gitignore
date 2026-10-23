@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.next/
+out/
+.env.local
+.vscode/
+package-lock.json
+
+.env.local
+certs/
